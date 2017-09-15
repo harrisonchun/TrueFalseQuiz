@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">TrueFalseQuiz</string>
+    <string name="text_false">False</string>
+    <string name="next"><![CDATA[Next>]]></string>
+    <string name="text_true">True</string>
+    <string name="question_1">dogs ride bikes.</string>
+    <string name="question_2">Do birds play poker?</string>
+    <string name="question_3">Do humans drive cars?</string>
+    <string name="question_4">Is Sean Lettuce?</string>
+    <string name="question_0">Do Lamas wear hats?</string>
+</resources>
